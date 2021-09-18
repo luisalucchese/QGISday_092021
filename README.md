@@ -1,5 +1,4 @@
-# Arquivos palestra "Como elaborar mapas para publicações internacionais usando o QGIS" 
-# QGIS Open Day Brasil Setembro/2021
+# Arquivos palestra "Como elaborar mapas para publicações internacionais usando o QGIS" - QGIS Open Day Brasil Setembro/2021
 
 Arquivos para acompanhar a parte prática da palestra, dia 25/09/21 às 14h.
 
