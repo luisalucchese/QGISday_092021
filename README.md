@@ -7,3 +7,5 @@ https://github.com/ArMoraer/dem-utils
 
 Para fins de mapeamento, atribuí ao MDE a projeção UTM Fuso 22 Sul.
 Incluí também no repositório alguns atributos gerados a partir deste MDE, e alguns shapefiles criados por mim.
+
+![exemplo_repositorio](https://user-images.githubusercontent.com/37668725/133893520-97c0a998-acbc-4d8e-af13-b92f2bdb6c7d.png)
